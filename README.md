@@ -10,8 +10,8 @@
 ### Обратная связь
 *Юрий Богомолов*  
 Email: yuriy.bogomolov@gmail.com  
-Telegram: [t.me/ybogomolov](@ybogomolov)
+Telegram: [@ybogomolov](t.me/ybogomolov)
 
 *Григорий Ситнин*  
 Facebook: https://fb.com/sitnin  
-Telegram: [t.me/sitnin](@sitnin)
+Telegram: [@sitnin](t.me/sitnin)
