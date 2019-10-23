@@ -8,10 +8,10 @@
 2. [Второй эпизод](https://www.youtube.com/watch?v=buQMEHBIrCQ). Настраиваем рабочее место, знакомимся с библиотекой `fp-ts`
 
 ### Обратная связь
-*Юрий Богомолов*
-Email: yuriy.bogomolov@gmail.com
+*Юрий Богомолов*  
+Email: yuriy.bogomolov@gmail.com  
 Telegram: [t.me/ybogomolov](@ybogomolov)
 
-*Григорий Ситнин*
-Facebook: https://fb.com/sitnin
+*Григорий Ситнин*  
+Facebook: https://fb.com/sitnin  
 Telegram: [t.me/sitnin](@sitnin)
