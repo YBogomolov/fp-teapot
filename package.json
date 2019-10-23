@@ -1,0 +1,21 @@
+{
+  "name": "fp-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.11.5",
+    "fluture": "^11.0.3",
+    "fp-ts": "^2.1.1",
+    "fp-ts-contrib": "^0.1.6",
+    "io-ts": "^2.0.1",
+    "monocle-ts": "^2.0.0",
+    "tslint": "^5.20.0",
+    "typescript": "^3.7.0-beta"
+  }
+}
