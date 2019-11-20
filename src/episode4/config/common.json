@@ -1,0 +1,17 @@
+{
+  "server": {
+    "bind": {
+      "host": "127.0.0.1",
+      "port": 8000
+    },
+    "paths": {
+      "uploads": "/tmp",
+      "static": "/var/www"
+    }
+  },
+  "site": {
+    "domain": "domain.tld",
+    "url": "https://domain.tld/",
+    "title": "My site"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "server": {
+    "paths": {
+      "uploads": "/var/uploads"
+    }
+  }
+}

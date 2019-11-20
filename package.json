@@ -11,13 +11,15 @@
   "dependencies": {
     "@types/jest": "^24.0.21",
     "@types/node": "^12.11.5",
+    "@types/ramda": "^0.26.36",
     "fast-check": "^1.18.1",
     "fluture": "^11.0.3",
-    "fp-ts": "^2.1.1",
-    "fp-ts-contrib": "^0.1.6",
+    "fp-ts": "^2.1.2",
+    "fp-ts-contrib": "^0.1.7",
     "io-ts": "^2.0.1",
     "jest": "^24.9.0",
     "monocle-ts": "^2.0.0",
+    "ramda": "^0.26.1",
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.0",
     "typescript": "^3.7.2"
